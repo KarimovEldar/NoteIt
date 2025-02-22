@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ToDo" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">
+            @color/purple
+        </item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <!-- Fab button. -->
+    <style name="CircularFAB" parent="">
+        <item name="cornerSize">50%</item> <!-- This value specifies the circular shape -->
+    </style>
+
+
+    <style name="Theme.ToDo" parent="Base.Theme.ToDo" />
+</resources>

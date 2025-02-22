@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NoteIt</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="add">Add</string>
+    <string name="notes">Notes</string>
+    <string name="update">Update</string>
+    <string name="no_data">No Data</string>
+    <string name="search">Search</string>
+    <string name="sort_by">Sort By</string>
+    <string name="high_priority">High Priority</string>
+    <string name="low_priority">Low Priority</string>
+    <string name="delete_all">Delete All</string>
+    <string name="delete">Delete</string>
+    <string-array name="priorities">
+        <item>High Priority</item>
+        <item>Medium Priority</item>
+        <item>Low Priority</item>
+    </string-array>
+
+</resources>
