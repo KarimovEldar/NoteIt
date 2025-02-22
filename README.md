@@ -1,6 +1,6 @@
-# ✅ To-Do App
+# ✅  NoteIt
+### ( To-Do App ) 
 
-A fully functional To-Do app built with **Kotlin**, following **Clean Architecture** principles. It includes advanced UI/UX features and efficient state management.
 
 ### 📱 Screenshots
 
