@@ -1,6 +1,6 @@
-<div align="center">
-  <h1>NoteIt</h1>
-</div>
+# ✅ To-Do App
+
+A fully functional To-Do app built with **Kotlin**, following **Clean Architecture** principles. It includes advanced UI/UX features and efficient state management.
 
 ### 📱 Screenshots
 
@@ -20,13 +20,6 @@
     <td><img src="https://github.com/user-attachments/assets/1fb9037a-45bb-49b7-ba2b-34bc0e35681f" width="250"></td>
   </tr>
 </table>
-# ✅ To-Do App
-
-A fully functional To-Do app built with **Kotlin**, following **Clean Architecture** principles. It includes advanced UI/UX features and efficient state management.
-
-# ✅ To-Do App
-
-A fully functional To-Do app built with **Kotlin**, following **Clean Architecture** principles. It includes advanced UI/UX features and efficient state management.
 
 ## ✨ Features
 - **Navigation Component** for handling screen transitions  
