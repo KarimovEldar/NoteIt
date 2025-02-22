@@ -1,14 +1,9 @@
-
-
-
-
-
-
-
 <table>
   <tr>
     <th>Start Screen</th>
     <th>Game Screen</th>
+    <th>End Screen</th>
+    <th>End Screen</th>
     <th>End Screen</th>
   </tr>
   <tr>
