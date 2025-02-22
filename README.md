@@ -1,6 +1,4 @@
 # ✅  NoteIt
-### ( To-Do App ) 
-
 
 ### 📱 Screenshots
 
