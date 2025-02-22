@@ -1,10 +1,10 @@
 <table>
   <tr>
-    <th>Start Screen</th>
-    <th>Game Screen</th>
-    <th>End Screen</th>
-    <th>End Screen</th>
-    <th>End Screen</th>
+    <th>Notes Screen</th>
+    <th>Add Screen</th>
+    <th>Update Screen</th>
+    <th>Search</th>
+    <th>Notes Screen</th>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/1c51b38c-cf93-4834-85da-a3527adccc3c" width="250"></td>
