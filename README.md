@@ -20,3 +20,36 @@
     <td><img src="https://github.com/user-attachments/assets/1fb9037a-45bb-49b7-ba2b-34bc0e35681f" width="250"></td>
   </tr>
 </table>
+# ✅ To-Do App
+
+A fully functional To-Do app built with **Kotlin**, following **Clean Architecture** principles. It includes advanced UI/UX features and efficient state management.
+
+# ✅ To-Do App
+
+A fully functional To-Do app built with **Kotlin**, following **Clean Architecture** principles. It includes advanced UI/UX features and efficient state management.
+
+## ✨ Features
+- **Navigation Component** for handling screen transitions  
+- **Safe Args** for type-safe argument passing  
+- **Transition Animations** for better user experience  
+- **ROOM Database** for local data storage  
+- **CRUD operations** (Create, Read, Update, Delete)  
+- **Data Binding** & **Binding Adapters** for efficient UI updates  
+- **RecyclerView** with:
+  - Search functionality  
+  - Sorting options  
+  - Animations  
+  - Support for **Linear, Grid, and Staggered Layouts**  
+- **LiveData & ViewModel** for reactive UI updates  
+- **Repository Pattern** for structured data management  
+- **Swipe to delete** with **Undo/Restore** feature  
+- **DiffUtil** for efficient list updates  
+
+## 🛠️ Technologies Used
+- Kotlin  
+- Android Jetpack Components  
+- ROOM Database  
+- RecyclerView  
+- LiveData & ViewModel  
+- Repository Pattern  
+- Clean Architecture  
