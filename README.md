@@ -34,7 +34,7 @@
 - **LiveData & ViewModel** for reactive UI updates  
 - **Repository Pattern** for structured data management  
 - **Swipe to delete** with **Undo/Restore** feature  
-- **DiffUtil** for efficient list updates  
+- **DiffUtil** 
 
 ## 🛠️ Technologies Used
 - Kotlin  
