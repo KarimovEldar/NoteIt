@@ -1,3 +1,9 @@
+<div align="center">
+  <h1>NoteIt</h1>
+</div>
+
+### 📱 Screenshots
+
 <table>
   <tr>
     <th>Notes Screen</th>
