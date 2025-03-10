@@ -77,7 +77,7 @@ class UpdateFragment : Fragment() {
 
             toDoViewModel.updateData(updatedData)
 
-            Toast.makeText(requireContext(),"Successfully added!",Toast.LENGTH_SHORT).show()
+            Toast.makeText(requireContext(),"Successfully updated!",Toast.LENGTH_SHORT).show()
             findNavController().navigate(R.id.action_updateFragment_to_listFragment)
 
         }else{
