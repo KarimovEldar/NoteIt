@@ -41,21 +41,21 @@ class ListAdapter:RecyclerView.Adapter<ListAdapter.ToDoViewHolder>() {
         when(currentItem.priority){
 
             Priority.High ->
-                holder.binding.priorityIndicator.setBackgroundColor(
+                holder.binding.priorityIndicator.setCardBackgroundColor(
                 ContextCompat.getColor(
                     holder.itemView.context,
                     R.color.red
                 )
             )
             Priority.Medium ->
-                holder.binding.priorityIndicator.setBackgroundColor(
+                holder.binding.priorityIndicator.setCardBackgroundColor(
                     ContextCompat.getColor(
                         holder.itemView.context,
                         R.color.blue
                     )
                 )
             Priority.Low ->
-                holder.binding.priorityIndicator.setBackgroundColor(
+                holder.binding.priorityIndicator.setCardBackgroundColor(
                     ContextCompat.getColor(
                         holder.itemView.context,
                         R.color.orange
